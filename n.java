@@ -10,7 +10,7 @@ public class n {
         day = sc.nextLine();
 
         switch(day){
-            case "monday" -> System.out.println("The worst day 😫😫😫😫😫"); // enhanced switch
+            case "monday" ->  System.out.println("The worst day 😫😫😫😫😫"); // enhanced switch
 
             case "tuesday" -> System.out.println("The day is boooring 😪😪😪😪😪");
 
